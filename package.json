@@ -1,0 +1,15 @@
+{
+  "name": "hub-scanner",
+  "version": "1.0.0",
+  "author": "Ryan Zander <exide@hotmail.com>",
+  "license": "SEE LICENSE IN LICENSE",
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/Exide/hub-scanner"
+  },
+  "dependencies": {
+    "urijs": "^1.16.0",
+    "bluebird": "^2.9.34",
+    "superagent": "^0.20.0"
+  }
+}
