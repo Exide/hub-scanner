@@ -1,5 +1,5 @@
 # hub-scanner
-Simple tool for scanning a Hub channel for a specific item.
+Simple tool for scanning a [Hub](http://github.com/flightstats/hub) channel for a specific item.
 
 ## scanBackwardsFromLatest
 
